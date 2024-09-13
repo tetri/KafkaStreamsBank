@@ -1,0 +1,10 @@
+/.github/
+/.vscode/
+/csharp-consumer/BankAPI/.vs/
+/csharp-consumer/BankAPI/bin/
+/csharp-consumer/BankAPI/obj/
+/csharp-producer/BankTransactionProducer/.vs/
+/csharp-producer/BankTransactionProducer/bin/
+/csharp-producer/BankTransactionProducer/obj/
+/kafka-streams/Bank/target/
+/kafka-streams/Bank/src/test/
